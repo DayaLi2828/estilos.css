@@ -1,12 +1,152 @@
-h1{
-    color: red;
+h2{
+    background-position: center;
+    margin: 0 auto;
 }
-h1{
-    color: aqua;
+.box{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    background-position: center;
+    margin: 0 auto; 
 }
-div{
+.box2{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(66, 57, 57);
+    background-position: center;
+    margin: 0 auto;
+    box-shadow: 4px 3px 4px;
+}
+.box3{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 42, 0);
+    background-position: center;
+    margin: 0 auto;
+}
+.box4{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(236, 28, 163);
+    background-position: center;
+    margin: 0 auto;
+}
+.box5{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(10, 158, 37);
+    background-position: center;
+    margin: 0 auto;
+}
+.box6{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: hsl(200, 100%, 50%) ;  
+    background-position: center;
+    margin: 0 auto;
+}
+.box7{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(110, 50, 3);
+    background-position: center;
+    margin: 0 auto;
+}
+.box8{
+    border: 3px solid rgb(0, 0, 0);
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(200, 100, 40, 0.3);
+    background-position: center;
+    margin: 0 auto;
+}
+.box9{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: beige;
+    background-position: center;
+    margin: 0 auto;
+    background-image: url(imagenes/flor.jpg);
+    background-size: cover;
+}
+.box10{
+    border: 3px solid black;
+    height: 700px;
+    width: 500px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: beige;
+    background-position: center;
+    margin: 0 auto;
+    background-image: url(imagenes/flor.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.box11{
+    border: 3px solid black;
+    height: 400px;
+    width: 400px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    background: Linear-gradient(red, blue, pink);
+    background-position: center;
+    margin: 0 auto;
+    background-size: cover;
+}
+
+/* div{
     border-radius: double #151715;
 }
 .segundo{
     border-color: blue;
-}
+}  */
+/* div{
+    background-image: url(imagenes/flor.jpg);  
+    width: 900px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto ;
+    background-attachment: fixed;
+} */
+
+
